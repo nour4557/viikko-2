@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+</head>
+<body style="font-family: Arial; background-color: #e8d8c3; color: #795548; text-align: center;">
+
+    <h1>Welcome</h1>
+    <p>My Week 2 project</p>
+
+    <h2>Visitor Counter</h2>
+    <h1>{maara}</h1>
+
+    <h2>Database</h2>
+    <p>Visitor count is saved using SQLite.</p>
+
+    <h2>Restart Test</h2>
+    <p>I restarted the server and checked that it works.</p>
+
+    <h2>GitHub</h2>
+    <a href="https://github.com/nour4557/viikko2">GitHub</a>
+</body>
+</html>
